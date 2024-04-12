@@ -1,0 +1,19 @@
+{
+  "zzz-is_sentence_key-zzz":"is_sentence",
+  "zzz-is_ner_subj_key-zzz":"is_ner_subj",
+  "zzz-codice_interventi_class_table_key-zzz":"CATEGORIA",
+  "zzz-codice_odg_class_table_key-zzz":"CATEGORIA",
+  "zzz-odg_list_key-zzz":"odg",
+  "zzz-tipologia_intervento_key-zzz":"tipologia",
+  "zzz-codice_odg_key-zzz":"categoria",
+  "zzz-omissis_key-zzz":"omissis",
+  "zzz-title_found_key-zzz":"title_found",
+  "zzz-title_sorted_key-zzz":"title_sorted",
+  "zzz-preclassification_check_key-zzz":"preclassification_check",
+  "zzz-odg_id_field_key-zzz":"id_odg",
+  "zzz-interventi_id_field_key-zzz":"id_intervento",
+  "zzz-odg_body_field_key-zzz":"body",
+  "zzz-interventi_body_field_key-zzz":"body_intervento",
+  "zzz-protocollo_key-zzz":"protocollo"
+
+}
